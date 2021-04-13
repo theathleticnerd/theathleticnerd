@@ -4,7 +4,7 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Sophomore at [VIT-AP](
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Job%20Shoban-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/job-fernandez/) [![Mail Badge](https://img.shields.io/badge/-@theathleticnerd-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/theathleticnerd) [![Mail Badge](https://img.shields.io/badge/-jobandjeffy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jobandjeffy@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Job%20Shoban-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/job-fernandez/) [![Mail Badge](https://img.shields.io/badge/-@theathleticnerd-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/the.athletic.nerd) [![Mail Badge](https://img.shields.io/badge/-jobandjeffy-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:jobandjeffy@gmail.com)
 
 <!-- TODO: Add last video link -->
 
