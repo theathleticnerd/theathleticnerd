@@ -11,7 +11,7 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Sophomore at [VIT-AP](
 - 🔭 I’m currently studying Computer Science
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help in Software Development.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: jobandjeffy@gmail.com.
 - 😄 Pronouns: Job, Frendi, theathleticnerd.
 - ⚡ Fun fact: I'm a member of the Survey Corps.
 
