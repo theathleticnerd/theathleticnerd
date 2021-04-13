@@ -52,7 +52,7 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Sophomore at [VIT-AP](
 <br />
 -->
 
-#### Bizness
+#### Resume & Contact Details
 
 - :paperclip: [My Resume/CV](https://github.com/theathleticnerd/Resume)
 - :email: jobandjeffy@gmail.com
@@ -78,9 +78,11 @@ You are free to text or email me. I have interest in a lot of things ranging fro
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
