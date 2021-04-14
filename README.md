@@ -78,11 +78,9 @@ You are free to text or email me. I have interest in a lot of things ranging fro
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
 ```text
 No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
 
 #### Github Stats
