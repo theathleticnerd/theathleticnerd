@@ -1,6 +1,6 @@
 ## Hi I'm Job <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Job Fernandez Shoban a Full Stack Web Developer and a Sophomore at [VIT-AP](https://www.vitap.ac.in). I Spend most of time coding projects or watching anime.
+I'm Job Fernandez Shoban a Full Stack Web Developer and a Junior at [VIT-AP](https://www.vitap.ac.in). I Spend most of time coding projects or watching MMA.
 
 :mailbox: Reach me out!
 
@@ -13,7 +13,7 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Sophomore at [VIT-AP](
 - 🤔 I’m looking for help in Software Development.
 - 📫 How to reach me: jobandjeffy@gmail.com.
 - 🎮 Username/Gamername: theathleticnerd.
-- ⚡ Fun fact: I'm a member of the Survey Corps.
+- ⚡ Fun fact: I'm a member of the null(Infosec) Chapter.
 
 #### Top Technologies
 
