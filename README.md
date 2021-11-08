@@ -69,7 +69,7 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Junior at [VIT-AP](htt
 <br >
 
 I'm a Computer Science Enthusiast who likes to explore all the fields and dirty my hands.
-BTW, I use Linux
+btw, I use arch
 
 #### What could you talk to me?
 
