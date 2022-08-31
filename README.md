@@ -1,6 +1,8 @@
 ## Hi I'm Job <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Job Fernandez Shoban a Full Stack Web Developer and a Junior at [VIT-AP](https://www.vitap.ac.in). I Spend most of time coding projects or watching MMA.
+Job Fernandez Shoban, Full Stack Web Developer | Software Engineer | Data Analyst | Computer Science student at [VIT-AP](https://www.vitap.ac.in). 
+<br/>
+I spend most of time either coding or learning about coding.
 
 :mailbox: Reach me out!
 
@@ -8,12 +10,12 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Junior at [VIT-AP](htt
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studying Computer Science
+- 🔭 Bachelor of Technology in Computer Science Engineering (with specialization in Data Analytics)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🤔 I’m looking for help in Software Development.
+- 🤔 Open for work as a Software Engineer or Data Analyst.
 - 📫 How to reach me: jobandjeffy@gmail.com.
-- 🎮 Username/Gamername: theathleticnerd.
-- ⚡ Fun fact: I'm a member of the null(Infosec) Chapter.
+- 🎮 Username: theathleticnerd.
+- ⚡ Fun fact: I use Arch btw.
 
 #### Top Technologies
 
@@ -68,12 +70,11 @@ I'm Job Fernandez Shoban a Full Stack Web Developer and a Junior at [VIT-AP](htt
 
 <br >
 
-I'm a Computer Science Enthusiast who likes to explore all the fields and dirty my hands.
-btw, I use arch
+Energetic and passionate college student pursuing a Bachelors of Technology in Computer Science and Engineering with specialization in Data Analytics in Vellore Institute of Technology AP with good academic record, practical exposure and a keen interest in the field of building web and data based projects. Can endure rigorous and long work hours. Gained knowledge in web development, data analysis, machine learning, deep learning and database management system.
 
 #### What could you talk to me?
 
-You are free to text or email me. I have interest in a lot of things ranging from anime to martial arts, from Web Development to Ethical Hacking to Machine Learning etc....
+You are free to text or email me. Anything about Data Science, Software Engineering or Technology in general interests me.
 
 #### Coding Stats
 
